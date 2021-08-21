@@ -1,0 +1,10 @@
+.idea
+venv
+venv2
+
+**/__pycache__/**
+
+*.log
+*.log.*
+*.pck
+*.pid
